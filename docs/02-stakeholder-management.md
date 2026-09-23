@@ -34,10 +34,10 @@ Over the following two weeks:
 
 Through March and April, my responsibilities as liaison included:
 - Scheduling and preparing for recurring stakeholder meetings
-- Following up directly when a contact was unresponsive (at one point calling Kelly Electric's main line to get Derek Newman's number after email follow-ups stalled — see [Data Access & Blockers](04-data-access-and-blockers.md))
+- Following up directly when a contact was unresponsive (at one point calling Kelly Electric's main line to get Derek Newman's number after email follow-ups stalled, see [Data Access & Blockers](04-data-access-and-blockers.md))
 - Routing questions to the right stakeholder group once we understood the Kelly Electric / solar-advocate distinction
 - Communicating project status, blockers, and next steps back to the team and to the class/instructor
 
 ## Why This Mattered
 
-A project with this many stakeholder groups — a company providing data, a set of advocates setting direction, utilities coordinating physical site work, and a rotating grant timeline — needed someone actively keeping communication moving, not just documenting it after the fact. That was the core of the liaison role.
+A project with this many stakeholder groups, a company providing data, a set of advocates setting direction, utilities coordinating physical site work, and a rotating grant timeline — needed someone actively keeping communication moving, not just documenting it after the fact. That was the core of the liaison role.
