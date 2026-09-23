@@ -27,7 +27,7 @@ When our team entered the project on February 9, there wasn't yet an established
 Over the following two weeks:
 - Derek Newman was established as Kelly Electric's primary contact (with John Arnold as secondary)
 - I helped organize and run our team's first stakeholder meeting
-- In the process, we found that the stakeholder group itself hadn't met in some time — our outreach was what got that communication moving again
+- In the process, we found that the stakeholder group itself hadn't met in some time, our outreach was what got that communication moving again
 - I was also in direct contact with David Brosch, one of the solar advocates on the project
 
 ## Ongoing Coordination
