@@ -8,7 +8,7 @@ I maintained this running log throughout the semester as the shared record of st
 
 **Feb 16** — Designated team liaison for stakeholder communication. Still waiting on a primary Kelly Electric contact and an informational meeting. Introduced to GIS modeling as a possible fallback if data collection is delayed.
 
-**Feb 23** — Derek Newman established as primary Kelly Electric contact. Held our first stakeholder meeting this week — realized the stakeholder group hadn't met in some time until we reached out. Site visitation for panel installation set for March 10. Connected with David Brosch, a solar advocate on the project.
+**Feb 23** — Derek Newman established as primary Kelly Electric contact. Held our first stakeholder meeting this week, realized the stakeholder group hadn't met in some time until we reached out. Site visitation for panel installation set for March 10. Connected with David Brosch, a solar advocate on the project.
 
 **Mar 2** — David Brosch assigned to select viable panel locations. Confirmed and scheduled an individual meeting with Kelly Electric project managers Derek Newman and John Arnold. Clarified that our team's role is data analysis; site-selection and broader project direction belong to the solar advocates (David Brosch, Steve Skolnik, Albert Nunez). Learned preliminary data must be gathered by March 31 per grant requirements. Panel computers accessible via TeamViewer.
 
