@@ -1,5 +1,5 @@
 # Kelly Electric Solar & EMF Study
-### Client-Facing Project Management Case Study | INST490 Capstone, Spring 2026
+### Client-Facing Project Management Case Study, Spring 2026
 
 ## Overview
 
