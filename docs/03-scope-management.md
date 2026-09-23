@@ -2,11 +2,11 @@
 
 ## Initial Ambiguity
 
-Early in the project, the boundaries between our team's responsibilities and the solar advocates' responsibilities weren't fully defined. In early March, Kelly Electric clarified that our team's role was data analysis specifically — decisions about site selection and overall project direction belonged to the solar advocates (David Brosch, Steve Skolnik, Albert Nunez).
+Early in the project, the boundaries between our team's responsibilities and the solar advocates' responsibilities weren't fully defined. In early March, Kelly Electric clarified that our team's role was data analysis specifically, decisions about site selection and overall project direction belonged to the solar advocates (David Brosch, Steve Skolnik, Albert Nunez).
 
 ## The Scope Issue
 
-Despite that clarification, our team continued to be pulled into discussions connected to site selection — for example, receiving criteria for evaluating panel locations. By March 30, it was clear this had drifted beyond our defined analytical scope.
+Despite that clarification, our team continued to be pulled into discussions connected to site selection, for example, receiving criteria for evaluating panel locations. By March 30, it was clear this had drifted beyond our defined analytical scope.
 
 **Situation:** The team was being asked to participate in site-selection–related activity.
 
@@ -14,7 +14,7 @@ Despite that clarification, our team continued to be pulled into discussions con
 
 **Action:** I helped identify the scope drift and raised the concern directly with David Brosch, rather than letting the team keep absorbing work that wasn't ours to own.
 
-**Result:** The distinction held for the rest of the project — our team stayed focused on data collection, system access, and analysis planning, while site-selection and goal-setting stayed with the solar advocates.
+**Result:** The distinction held for the rest of the project, our team stayed focused on data collection, system access, and analysis planning, while site-selection and goal-setting stayed with the solar advocates.
 
 ## Lesson
 
