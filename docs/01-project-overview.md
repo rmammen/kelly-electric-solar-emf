@@ -2,7 +2,7 @@
 
 ## Context
 
-Kelly Electric Company, supported by a Maryland Energy Administration (MEA) grant, was studying whether solar arrays installed within or near utility rights-of-way perform differently than arrays outside them — specifically, whether electromagnetic fields (EMFs) from high-voltage lines have a measurable effect on solar generation.
+Kelly Electric Company, supported by a Maryland Energy Administration (MEA) grant, was studying whether solar arrays installed within or near utility rights-of-way perform differently than arrays outside them, specifically, whether electromagnetic fields (EMFs) from high-voltage lines have a measurable effect on solar generation.
 
 Our INST490 capstone team was brought in to support the data-analysis side of that study.
 
@@ -38,7 +38,7 @@ The Kelly Electric–MEA contract ran through June 30, 2026, with solar-generati
 
 ## My Role
 
-Project Manager / Team Liaison — designated February 16, 2026. Details in [Stakeholder Management](02-stakeholder-management.md), [Scope Management](03-scope-management.md), and [Data Access & Blockers](04-data-access-and-blockers.md).
+Project Manager / Team Liaison, designated February 16, 2026. Details in [Stakeholder Management](02-stakeholder-management.md), [Scope Management](03-scope-management.md), and [Data Access & Blockers](04-data-access-and-blockers.md).
 
 ## Outcome
 
