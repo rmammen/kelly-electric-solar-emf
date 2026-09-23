@@ -1,6 +1,6 @@
 # Data Access & Blockers
 
-The project ran against a hard external constraint: Kelly Electric's MEA grant required preliminary data collection to begin by **March 31, 2026**. Everything upstream of that deadline — site installation, remote-system access, and EMF data delivery — had to come together in time, and none of it did smoothly.
+The project ran against a hard external constraint: Kelly Electric's MEA grant required preliminary data collection to begin by **March 31, 2026**. Everything upstream of that deadline, site installation, remote-system access, and EMF data delivery — had to come together in time, and none of it did smoothly.
 
 ## Timeline of Blockers
 
@@ -16,10 +16,10 @@ The project ran against a hard external constraint: Kelly Electric's MEA grant r
 
 ## The Contingency Plan
 
-Data delays weren't a surprise risk — GIS modeling had been raised as early as February as a fallback in case data collection stalled. When it became clear in April that we might not get complete data in time, I pushed the team to explicitly plan for that scenario rather than waiting it out:
+Data delays weren't a surprise risk, GIS modeling had been raised as early as February as a fallback in case data collection stalled. When it became clear in April that we might not get complete data in time, I pushed the team to explicitly plan for that scenario rather than waiting it out:
 
 - Identified dashboard-level VRM data as the most reliable data source available
-- Considered a partial approach — analyzing EMF data delivered on a thumb drive up to whatever date it was available
+- Considered a partial approach, analyzing EMF data delivered on a thumb drive up to whatever date it was available
 - Began drafting a statement of work so that whatever we couldn't finish would be usable by the next capstone team
 
 ## Outcome
